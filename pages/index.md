@@ -1,18 +1,34 @@
 <!--
-.. title: index
-.. slug: index
+.. title:
+.. slug: 
 .. date: 2017-08-10 09:19:07 UTC+10:00
 .. tags:
 .. category:
 .. link:
 .. description:
-.. type: text
+.. type: md
+.. hidetitle: True
 -->
 
-<div class="jumbotron">Hi</div>
+<style type="text/css">
+.navbar{
+	display: none; 
+}
+h2, .h2 {
+    font-size: 50px;
+}
+.jumbotron{
+	color: white;
+	background-color: green;
+}
 
+</style>
 
-[Syllabus](AGBI345F17-syllabus.pdf)
+<div class="jumbotron">
+<h1>AG/BI 345 - General Entomology - Fall 2017</h1>
+</div>
+
+Syllabus [PDF](AGBI345F17-syllabus.pdf)
 
 Resources
 
@@ -33,6 +49,7 @@ Resources
 .inat-widget td.inat-user-body {vertical-align: middle;}
 .inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
 </style>
+
 <div class="inat-widget">
     <div class="inat-widget-header"><a href="http://www.inaturalist.org/"><img alt="iNaturalist.org" src="https://static.inaturalist.org/sites/1-logo.png?1433365372" /></a></div>
   <script type="text/javascript" charset="utf-8" src="//www.inaturalist.org/observations/project/1627.widget?layout=large&limit=5&order=desc&order_by=observed_on"></script>
