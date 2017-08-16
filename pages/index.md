@@ -64,5 +64,5 @@ Resources
   </table>
 </div>
 
+<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=dmrlsj2c5abtgq1oq2r0vqu6o8%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Pacific%2FGuam" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ruvkafi3iqrapg2q6lcfmf4p28%40group.calendar.google.com&amp;color=%23853104&amp;ctz=Pacific%2FGuam" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
